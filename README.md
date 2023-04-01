@@ -2,7 +2,7 @@
   <p>
     <a align="center" href="" target="_blank">
       <img
-        width="75%"
+        width="45%"
         style="border-radius: 20px;"
         src="images/data_sample.jpg"
       >
